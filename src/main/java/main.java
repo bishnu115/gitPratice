@@ -9,12 +9,6 @@ public class main {
 
         System.out.println("added");
 
-        System.out.println("added");
-        System.out.println("added");
-        System.out.println("added");
-        System.out.println("added");
-        System.out.println("added");
-        System.out.println("added");
 
 
     }
